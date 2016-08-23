@@ -1,0 +1,22 @@
+chrome target: 
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+===============================================================
+
+https://github.com/cindoum/easyrtc-angular-demo
+
+https://www.youtube.com/watch?v=nCzW8RCO1Qk
+
+WebRTC Presentations: 
+https://www.youtube.com/watch?v=5ci91dfKCyc
+http://www.slideshare.net/tsahil/02-tsahibabysteps?qid=0e855bff-e93c-4654-bfbd-641aafa3b00c&v=qf1&b=&from_search=1
+
+http://www.slideshare.net/tsahil/webrtc-for-telco-informas-webrtc-global-summit-preconference?qid=0e855bff-e93c-4654-bfbd-641aafa3b00c&v=qf1&b=&from_search=11
+
+
+
+Socket.io presentations:
+http://www.slideshare.net/MindfireSolutions/real-time-communication-using-nodejs-and-socketio?qid=1a59a641-9e58-43e8-b7a2-887b904a04b8&v=default&b=&from_search=7
+
+====================
+IMPORTANT
+http://www.slideshare.net/micheledisalvatore/webrt-socketio-building-a-skypelike-video-chat-with-native-javascript?qid=45455633-5134-4beb-b1b1-bd0cdf23f8d5&v=&b=&from_search=8

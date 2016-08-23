@@ -1,0 +1,10 @@
+Title: 
+Hangouts in 30 minutes with Socket.io
+-------------------------------------------
+
+Abstract: 
+Have you ever given a thought in creating your own service for streaming and chatting instead of using conventional tools like Skype, Hangouts etc. With building your own service you are getting the only features that you really want to have. 
+
+Efficient and scalable live-streaming overlay construction has become a hot topic recently. Peer-to-peer (P2P) video streaming is an emerging technology that aims to reduce the barrier to stream live events over the Internet. Unfortunately, the main problem that you need to solve when creating this kind of technology is satisfying soft real-time constraints on the delay between the generation of the stream and its actual delivery to users is still a challenging problem. 
+
+In this presentation you will learn the key points that you need to address when building such service and the baby steps that you must take when implementing live-streaming application using WebRTC with NodeJS and SocketIO.
